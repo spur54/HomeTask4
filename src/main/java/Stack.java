@@ -1,5 +1,5 @@
 /**
- * Created by Dima on 30.05.2016.
+ * Created by Dima on 30.05.2016.5
  */
 public interface Stack {
     // adds an element to stack, throws exception if stack is full ("Stack is full" message)
